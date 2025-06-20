@@ -1,21 +1,22 @@
-Sorting Algorithms in C++
-A simple implementation of three fundamental sorting algorithms in C++.
-Algorithms Implemented
+Data Structures and Algorithms (DSA)
+This repository contains a comprehensive collection of Data Structures and Algorithms implemented in [your programming language(s), e.g., Python/C++/Java]. It is designed to help students, developers, and interview aspirants strengthen their problem-solving and coding skills.
 
-Selection Sort - O(n²) time complexity
-Bubble Sort - O(n²) time complexity
-Insertion Sort - O(n²) time complexity
 
-Features
+What’s Inside:
+📌 Core Data Structures: Arrays, Linked Lists, Stacks, Queues, Trees, Graphs, Hash Tables, Heaps, etc.
 
-All algorithms sort in ascending order
-Each algorithm prints the sorted array
-Test array: {13, 46, 24, 52, 20, 9}
+⚙️ Algorithmic Paradigms: Recursion, Sorting, Searching, Greedy, Divide and Conquer, Backtracking, Dynamic Programming, etc.
 
-How to Run
-bashg++ sorting.cpp -o sorting
-./sorting
-Output
-The program demonstrates all three sorting algorithms sequentially on the same input array, showing the sorted result for each method.
-Time Complexity
-AlgorithmBest CaseAverage CaseWorst CaseSelection SortO(n²)O(n²)O(n²)Bubble SortO(n)O(n²)O(n²)Insertion SortO(n)O(n²)O(n²)
+🧠 Complexity Analysis: Time and Space complexities included for each algorithm
+
+✅ Well-commented code with sample inputs and outputs
+
+🧪 Practice problems and solutions for coding interviews
+
+
+🚀 Why This Repo?
+Ideal for interview preparation, competitive programming, and academic learning
+
+Easy-to-understand and modular code structure
+
+Continuously updated with new problems and optimized solutions
