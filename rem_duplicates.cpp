@@ -38,3 +38,10 @@ int main(){
     
     return 0;
 }
+
+sise of the array:3
+1 2 3 
+
+using two pointer approach:
+finel array:
+1 2 3 
